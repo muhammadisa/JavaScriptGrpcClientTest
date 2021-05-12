@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@grpc/grpc-js": "^0.7.9",
+    "@grpc/grpc-js": "^1.1.8",
     "@grpc/proto-loader": "^0.5.4",
     "protobufjs": "^6.8.9"
   }
